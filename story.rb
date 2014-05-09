@@ -60,5 +60,10 @@ class Story
       end
       current_node = get_next_node_for_choice(current_node, choice_index)
     end
+
+    current_node.display
+    puts
+    puts "Fin de la réalité de #{@story_name}"
+    gets
   end
 end

@@ -7,7 +7,7 @@ class Node
   def initialize(node = {})
     @id = node['id']
     @content = node['content']
-    @is_finale = node['is_final'] == 1
+    @is_final = node['is_final'] == 1
     @parent_id = node['parent_id']
     @choices = []
   end
