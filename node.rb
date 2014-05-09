@@ -2,7 +2,7 @@
 require_relative "choice"
 
 class Node
-  attr_accessor :id, :content, :is_final
+  attr_accessor :id, :content, :is_final, :choices
 
   def initialize(node = {})
     @id = node['id']
@@ -14,5 +14,14 @@ class Node
 
   def add_choice(choice)
     @choices << Choice.new(choice)
+  end
+
+  def display
+    system "clear"
+    puts @content
+    puts
+    @choices.each_with_index do |choice, i|
+      puts "[#{i+1}] #{choice.content}"
+    end
   end
 end

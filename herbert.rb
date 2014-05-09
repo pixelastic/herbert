@@ -1,5 +1,6 @@
 # Encoding: UTF-8
-require_relative "story_importer"
+require_relative "story"
 
-StoryImporter.new("yasmine")
+story = Story.new("yasmine")
+p story.first_node
 
