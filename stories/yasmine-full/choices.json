@@ -1,0 +1,276 @@
+[{
+  "id": 717,
+  "node_id": 138,
+  "next_node_id": 449,
+  "content": "En tant que téléconseillère."
+}, {
+  "id": 1792,
+  "node_id": 1008,
+  "next_node_id": 1009,
+  "content": "Appeller l'agence 7ème Ciel"
+}, {
+  "id": 1791,
+  "node_id": 941,
+  "next_node_id": 1008,
+  "content": "Raccrocher, écoeurée"
+}, {
+  "id": 1595,
+  "node_id": 449,
+  "next_node_id": 917,
+  "content": "Se remettre en question"
+}, {
+  "id": 1596,
+  "node_id": 917,
+  "next_node_id": 918,
+  "content": "Se motiver"
+}, {
+  "id": 1597,
+  "node_id": 918,
+  "next_node_id": 919,
+  "content": "Répondre au client"
+}, {
+  "id": 1598,
+  "node_id": 449,
+  "next_node_id": 920,
+  "content": "Répondre au client"
+}, {
+  "id": 1599,
+  "node_id": 920,
+  "next_node_id": 921,
+  "content": "Rassurer le client"
+}, {
+  "id": 1601,
+  "node_id": 920,
+  "next_node_id": 923,
+  "content": "Se montrer professionnelle et froide"
+}, {
+  "id": 1602,
+  "node_id": 920,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1603,
+  "node_id": 921,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1604,
+  "node_id": 921,
+  "next_node_id": 925,
+  "content": "Continuer à le convaincre"
+}, {
+  "id": 1605,
+  "node_id": 919,
+  "next_node_id": 921,
+  "content": "Rassurer le client"
+}, {
+  "id": 1606,
+  "node_id": 919,
+  "next_node_id": 923,
+  "content": "Se montrer professionnelle et froide"
+}, {
+  "id": 1607,
+  "node_id": 919,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1608,
+  "node_id": 923,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1609,
+  "node_id": 923,
+  "next_node_id": 926,
+  "content": "Lire la suite du texte"
+}, {
+  "id": 1610,
+  "node_id": 926,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1611,
+  "node_id": 926,
+  "next_node_id": 927,
+  "content": "Demander au client s'il est prêt à commencer"
+}, {
+  "id": 1612,
+  "node_id": 924,
+  "next_node_id": 927,
+  "content": "Demander au client s'il est prêt à commencer"
+}, {
+  "id": 1613,
+  "node_id": 925,
+  "next_node_id": 924,
+  "content": "Demander le numéro de carte de crédit"
+}, {
+  "id": 1614,
+  "node_id": 925,
+  "next_node_id": 927,
+  "content": "Demander au client s'il est prêt à commencer"
+}, {
+  "id": 1615,
+  "node_id": 923,
+  "next_node_id": 927,
+  "content": "Demander au client s'il est prêt à commencer"
+}, {
+  "id": 1616,
+  "node_id": 927,
+  "next_node_id": 928,
+  "content": "Le laisser continuer"
+}, {
+  "id": 1617,
+  "node_id": 927,
+  "next_node_id": 929,
+  "content": "Lui couper la parole"
+}, {
+  "id": 1618,
+  "node_id": 928,
+  "next_node_id": 929,
+  "content": "Commencer la procédure"
+}, {
+  "id": 1619,
+  "node_id": 929,
+  "next_node_id": 930,
+  "content": "Retourner le compliment"
+}, {
+  "id": 1620,
+  "node_id": 929,
+  "next_node_id": 931,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1621,
+  "node_id": 930,
+  "next_node_id": 931,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1622,
+  "node_id": 931,
+  "next_node_id": 932,
+  "content": "Proposer de penser à un lieu"
+}, {
+  "id": 1623,
+  "node_id": 931,
+  "next_node_id": 933,
+  "content": "Proposer des accessoires"
+}, {
+  "id": 1624,
+  "node_id": 931,
+  "next_node_id": 934,
+  "content": "Proposer de la musique"
+}, {
+  "id": 1625,
+  "node_id": 933,
+  "next_node_id": 934,
+  "content": "Proposer de la musique"
+}, {
+  "id": 1626,
+  "node_id": 933,
+  "next_node_id": 935,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1627,
+  "node_id": 934,
+  "next_node_id": 935,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1628,
+  "node_id": 932,
+  "next_node_id": 934,
+  "content": "Proposer de la musique"
+}, {
+  "id": 1629,
+  "node_id": 932,
+  "next_node_id": 933,
+  "content": "Proposer des accessoires"
+}, {
+  "id": 1630,
+  "node_id": 935,
+  "next_node_id": 936,
+  "content": "Parler au client"
+}, {
+  "id": 1631,
+  "node_id": 935,
+  "next_node_id": 937,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1632,
+  "node_id": 936,
+  "next_node_id": 937,
+  "content": "Continuer la procédure"
+}, {
+  "id": 1633,
+  "node_id": 937,
+  "next_node_id": 938,
+  "content": "Essayer de lui parler"
+}, {
+  "id": 1634,
+  "node_id": 938,
+  "next_node_id": 939,
+  "content": "Lire le rapport d'erreur"
+}, {
+  "id": 1635,
+  "node_id": 939,
+  "next_node_id": 940,
+  "content": "Lancer la phase finale"
+}, {
+  "id": 1636,
+  "node_id": 937,
+  "next_node_id": 940,
+  "content": "Appuyez sur le bouton"
+}, {
+  "id": 1637,
+  "node_id": 940,
+  "next_node_id": 941,
+  "content": "Vérifiez votre écran"
+}, {
+  "id": 1793,
+  "node_id": 1009,
+  "next_node_id": 1010,
+  "content": "Raccrocher"
+}, {
+  "id": 1794,
+  "node_id": 1009,
+  "next_node_id": 1011,
+  "content": "Poursuivre"
+}, {
+  "id": 1795,
+  "node_id": 941,
+  "next_node_id": 1012,
+  "content": "Continuer à écouter"
+}, {
+  "id": 1796,
+  "node_id": 939,
+  "next_node_id": 1008,
+  "content": "Raccrocher"
+}, {
+  "id": 1810,
+  "node_id": 930,
+  "next_node_id": 1008,
+  "content": "Raccrocher, écoeurée"
+}, {
+  "id": 1811,
+  "node_id": 1008,
+  "next_node_id": 1024,
+  "content": "Prendre l'air sur votre terrasse"
+}, {
+  "id": 1812,
+  "node_id": 1010,
+  "next_node_id": 1024,
+  "content": "Prendre l'air"
+}, {
+  "id": 1813,
+  "node_id": 1011,
+  "next_node_id": 1010,
+  "content": "Raccrocher"
+}, {
+  "id": 1814,
+  "node_id": 1011,
+  "next_node_id": 1025,
+  "content": "Poursuivre"
+}, {
+  "id": 1852,
+  "node_id": 917,
+  "next_node_id": 920,
+  "content": "Répondre au client"
+}]
