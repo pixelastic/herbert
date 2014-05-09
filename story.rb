@@ -43,4 +43,22 @@ class Story
   def get_next_node_for_choice(node, choice_index)
     return @nodes.get(node.choices[choice_index].next_node_id)
   end
+
+  def play
+    current_node = first_node
+
+    while !current_node.is_final
+      current_node.display
+
+      is_choice_valid = false
+      while !is_choice_valid
+        choice_index = gets.chomp.to_i - 1
+        is_choice_valid = is_choice_valid(current_node, choice_index)
+        if !is_choice_valid
+          puts "Veuillez entrer un nombre correspondant à votre choix."
+        end
+      end
+      current_node = get_next_node_for_choice(current_node, choice_index)
+    end
+  end
 end
