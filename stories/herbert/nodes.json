@@ -1,0 +1,66 @@
+[{
+  "id": 866,
+  "content": "Vous êtes Herbert Selgorn.\n\nVous ne vous souvenez plus des évènements de la veille, mais vous avez du faire une sacré fête, car vous êtes actuellement en chute libre dans le ciel.\n\nVous tombez, mais le sol est encore loin. A plus d'un kilomètre, peut-être. Vous pouvez discerner la courbure de l'horizon.",
+  "is_final": 0,
+  "parent_id": 0
+}, {
+  "id": 867,
+  "content": "Pendant un court moment, vous avez la troublante impression d'être figé dans les airs et que c'est le monde qui se précipite sur vous. Comme un immense poing inévitable.\nVous traversez maintenant une épaisse couche de nuage. Il fait blanc et froid.",
+  "is_final": 0,
+  "parent_id": 866
+}, {
+  "id": 868,
+  "content": "Vous hurlez à pleins poumons. Votre cri se perd dans le ciel.\nVous traversez maintenant une épaisse couche de nuage. Il fait blanc et froid.",
+  "is_final": 0,
+  "parent_id": 866
+}, {
+  "id": 869,
+  "content": "Vous vous adressez à ce qui est au-dessus de vous, hors de vous. Plus grand que vous. Vous cherchez à faire la paix.\nVous traversez maintenant une épaisse couche de nuage. Il fait blanc et froid.",
+  "is_final": 0,
+  "parent_id": 866
+}, {
+  "id": 870,
+  "content": "Vous nagez dans le vide. Sur votre gauche, il y a de l'absence et sur votre droite du rien du tout. Mais bientôt, vous percez le dernier cumulus et la Terre réapparaît. Proche.\nPlus bas, une nuée d'oiseaux tels que vous n'en avez jamais vu croise votre trajectoire.",
+  "is_final": 0,
+  "parent_id": 867
+}, {
+  "id": 871,
+  "content": "Dans ces nuages, il n'y a plus que votre cri, vos poumons et votre gorge enflammée. Puis le néant blanc s'estompe, aussi vite qu'il est venu.\nPlus bas, une nuée d'oiseaux tels que vous n'en avez jamais vu croise votre trajectoire.",
+  "is_final": 0,
+  "parent_id": 867
+}, {
+  "id": 872,
+  "content": "Le néant des nuages vous effraie. Vos prières ont-elles fait disparaître le monde ? Allez vous tomber à l'infini ? Mais bientôt, vous percez le dernier cumulus et la Terre réapparaît. Proche.\nPlus bas, une nuée d'oiseaux tels que vous n'en avez jamais vu croise votre trajectoire.",
+  "is_final": 0,
+  "parent_id": 867
+}, {
+  "id": 873,
+  "content": "Ces oiseaux sont d'un blanc immaculé et leurs longues ailes bougent à peine dans leur vol. Ils migrent vers des pays invisibles. Vous aimeriez pouvoir les imiter.\nMais vous les dépassez bien vite, pour vous retrouver à moins de cent mètres du sol.\n\nC'est l'instant qui précède l'impact. Cet instant semble s'étirer à l'infini dans votre tête, tout en se contractant dans le creux de votre estomac.",
+  "is_final": 0,
+  "parent_id": 870
+}, {
+  "id": 874,
+  "content": "Votre hurlement aïgu est recouvert par le cri des oiseaux. Vous ne vous entendez plus. Les oiseaux ont  disparus, maintenant, et vous ne vous entendez toujours pas. Vous n'avez plus de voix. Vous avez de la bave sur les joues.  Vous êtes à moins de cent mètres du sol.\n\nC'est l'instant qui précède l'impact. Cet instant semble s'étirer à l'infini dans votre tête, tout en se contractant dans le  creux de votre estomac.",
+  "is_final": 0,
+  "parent_id": 870
+}, {
+  "id": 875,
+  "content": "Ces oiseaux sont la preuve que la vie perdurera, au-delà de vous. Vous cherchez du réconfort dans leur existence.  Bientôt, vous ferez partie du tout. Très bientôt, car vous êtes maintenant à moins de cent mètres du sol.\n\nC'est l'instant qui précède l'impact. Cet instant semble s'étirer à l'infini dans votre tête, tout en se contractant dans le  creux de votre estomac.",
+  "is_final": 0,
+  "parent_id": 870
+}, {
+  "id": 877,
+  "content": "Vos yeux sont grands ouverts, intrigués. Tout devient noir.",
+  "is_final": 1,
+  "parent_id": 873
+}, {
+  "id": 878,
+  "content": "Votre bouche est grande ouverte, scandalisée. Tout devient noir.",
+  "is_final": 1,
+  "parent_id": 873
+}, {
+  "id": 879,
+  "content": "Votre âme est grande ouverte, préparée. Tout devient noir.",
+  "is_final": 1,
+  "parent_id": 873
+}]

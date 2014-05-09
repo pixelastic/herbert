@@ -3,7 +3,7 @@ require_relative "story"
 
 class Main
   def initialize()
-    @stories = ['yasmine']
+    @stories = ['herbert', 'yasmine', 'sssaco', 'karl']
   end
 
   def run

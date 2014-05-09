@@ -1,0 +1,286 @@
+[{
+  "id": 1537,
+  "node_id": 876,
+  "next_node_id": 880,
+  "content": "Commencer à peloter Hello Kitty"
+}, {
+  "id": 1538,
+  "node_id": 876,
+  "next_node_id": 881,
+  "content": "Commencer à peloter Longues Nattes"
+}, {
+  "id": 1539,
+  "node_id": 876,
+  "next_node_id": 882,
+  "content": "Quitter la chambre, pris de honte"
+}, {
+  "id": 1540,
+  "node_id": 880,
+  "next_node_id": 883,
+  "content": "Tâter la source de la douleur"
+}, {
+  "id": 1541,
+  "node_id": 880,
+  "next_node_id": 884,
+  "content": "Vous retourner"
+}, {
+  "id": 1542,
+  "node_id": 883,
+  "next_node_id": 884,
+  "content": "Vous retourner"
+}, {
+  "id": 1543,
+  "node_id": 881,
+  "next_node_id": 880,
+  "content": "Commencer à peloter Hello Kitty"
+}, {
+  "id": 1544,
+  "node_id": 881,
+  "next_node_id": 885,
+  "content": "Conclure avec Longues Nattes"
+}, {
+  "id": 1545,
+  "node_id": 885,
+  "next_node_id": 880,
+  "content": "Commencer à peloter Hello Kitty"
+}, {
+  "id": 1546,
+  "node_id": 885,
+  "next_node_id": 882,
+  "content": "Quitter la chambre, pris de honte"
+}, {
+  "id": 1547,
+  "node_id": 884,
+  "next_node_id": 886,
+  "content": "Tenter de bloquer l'attaque"
+}, {
+  "id": 1548,
+  "node_id": 884,
+  "next_node_id": 887,
+  "content": "Tenter d'esquiver l'attaque"
+}, {
+  "id": 1549,
+  "node_id": 884,
+  "next_node_id": 888,
+  "content": "Tenter de fuir hors de la chambre"
+}, {
+  "id": 1550,
+  "node_id": 886,
+  "next_node_id": 889,
+  "content": "Tenter de bloquer l'attaque"
+}, {
+  "id": 1551,
+  "node_id": 886,
+  "next_node_id": 887,
+  "content": "Tenter d'esquiver l'attaque"
+}, {
+  "id": 1552,
+  "node_id": 886,
+  "next_node_id": 888,
+  "content": "Tenter de fuir hors de la chambre"
+}, {
+  "id": 1554,
+  "node_id": 889,
+  "next_node_id": 891,
+  "content": "Ramper vers Hello Kitty"
+}, {
+  "id": 1555,
+  "node_id": 888,
+  "next_node_id": 891,
+  "content": "Ramper vers Hello Kitty"
+}, {
+  "id": 1556,
+  "node_id": 887,
+  "next_node_id": 892,
+  "content": "Tenter d'esquiver l'attaque"
+}, {
+  "id": 1557,
+  "node_id": 892,
+  "next_node_id": 891,
+  "content": "Ramper vers Hello Kitty"
+}, {
+  "id": 1558,
+  "node_id": 887,
+  "next_node_id": 893,
+  "content": "Tenter de frapper Longues Nattes du pied"
+}, {
+  "id": 1559,
+  "node_id": 893,
+  "next_node_id": 894,
+  "content": "Tenter de fuir hors de la chambre"
+}, {
+  "id": 1560,
+  "node_id": 894,
+  "next_node_id": 895,
+  "content": "Rejoindre un hôpital"
+}, {
+  "id": 1561,
+  "node_id": 894,
+  "next_node_id": 896,
+  "content": "Rentrer à votre hôtel"
+}, {
+  "id": 1562,
+  "node_id": 896,
+  "next_node_id": 895,
+  "content": "Prendre le taxi pour l'hôpital"
+}, {
+  "id": 1563,
+  "node_id": 896,
+  "next_node_id": 897,
+  "content": "Rentrer à votre hôtel à pieds"
+}, {
+  "id": 1564,
+  "node_id": 882,
+  "next_node_id": 898,
+  "content": "Aller vous saouler dans un bar"
+}, {
+  "id": 1565,
+  "node_id": 882,
+  "next_node_id": 899,
+  "content": "Rentrer à votre hôtel"
+}, {
+  "id": 1566,
+  "node_id": 898,
+  "next_node_id": 899,
+  "content": "Rentrer directement à votre hôtel, dépité"
+}, {
+  "id": 1567,
+  "node_id": 898,
+  "next_node_id": 900,
+  "content": "Prendre un pack de canettes à emporter"
+}, {
+  "id": 1568,
+  "node_id": 899,
+  "next_node_id": 901,
+  "content": "Vous coucher tôt"
+}, {
+  "id": 1569,
+  "node_id": 899,
+  "next_node_id": 902,
+  "content": "Regarder un film pour adulte sur la télé câblée"
+}, {
+  "id": 1570,
+  "node_id": 900,
+  "next_node_id": 901,
+  "content": "Vous coucher tôt"
+}, {
+  "id": 1571,
+  "node_id": 900,
+  "next_node_id": 902,
+  "content": "Regarder un film pour adulte sur la télé câblée"
+}, {
+  "id": 1572,
+  "node_id": 901,
+  "next_node_id": 903,
+  "content": "Visiter la ville quelques jours"
+}, {
+  "id": 1573,
+  "node_id": 901,
+  "next_node_id": 904,
+  "content": "Rentrer en Allemagne le lendemain"
+}, {
+  "id": 1574,
+  "node_id": 902,
+  "next_node_id": 903,
+  "content": "Visiter la ville quelques jours"
+}, {
+  "id": 1575,
+  "node_id": 902,
+  "next_node_id": 904,
+  "content": "Rentrer en Allemagne le lendemain"
+}, {
+  "id": 1576,
+  "node_id": 903,
+  "next_node_id": 905,
+  "content": "Répondre à ses caresses, vivre votre vie"
+}, {
+  "id": 1577,
+  "node_id": 903,
+  "next_node_id": 906,
+  "content": "Vous endormir, vivre votre vie"
+}, {
+  "id": 1578,
+  "node_id": 904,
+  "next_node_id": 906,
+  "content": "Vous endormir, vivre votre vie"
+}, {
+  "id": 1579,
+  "node_id": 904,
+  "next_node_id": 905,
+  "content": "Répondre à ses caresses, vivre votre vie"
+}, {
+  "id": 1580,
+  "node_id": 905,
+  "next_node_id": 907,
+  "content": "Vous lancer dans cette affaire, vivre votre vie"
+}, {
+  "id": 1581,
+  "node_id": 905,
+  "next_node_id": 908,
+  "content": "Garder votre emploi actuel, vivre votre vie"
+}, {
+  "id": 1582,
+  "node_id": 906,
+  "next_node_id": 908,
+  "content": "Garder votre emploi actuel, vivre votre vie"
+}, {
+  "id": 1583,
+  "node_id": 906,
+  "next_node_id": 907,
+  "content": "Vous lancer dans cette affaire, vivre votre vie"
+}, {
+  "id": 1584,
+  "node_id": 907,
+  "next_node_id": 910,
+  "content": "Vous rendre à l'enterrement de votre père, vivre votre vie"
+}, {
+  "id": 1585,
+  "node_id": 907,
+  "next_node_id": 910,
+  "content": "Ignorer l'enterrement de votre père, vivre votre vie"
+}, {
+  "id": 1586,
+  "node_id": 908,
+  "next_node_id": 911,
+  "content": "Vous rendre à l'enterrement de votre père, vivre votre vie"
+}, {
+  "id": 1587,
+  "node_id": 908,
+  "next_node_id": 911,
+  "content": "Ignorer l'enterrement de votre père, vivre votre vie"
+}, {
+  "id": 1588,
+  "node_id": 910,
+  "next_node_id": 912,
+  "content": "Vous opposer à ce mariage, vivre votre vie"
+}, {
+  "id": 1589,
+  "node_id": 910,
+  "next_node_id": 912,
+  "content": "Accepter le mariage, vivre votre vie"
+}, {
+  "id": 1590,
+  "node_id": 911,
+  "next_node_id": 912,
+  "content": "Vous opposer à ce mariage, vivre votre vie"
+}, {
+  "id": 1591,
+  "node_id": 911,
+  "next_node_id": 912,
+  "content": "Accepter ce mariage, vivre votre vie"
+}, {
+  "id": 1592,
+  "node_id": 912,
+  "next_node_id": 913,
+  "content": "Lire à l'ombre d'un arbre, vivre votre vie"
+}, {
+  "id": 1593,
+  "node_id": 912,
+  "next_node_id": 913,
+  "content": "Tailler vos rosier, vivre votre vie"
+}, {
+  "id": 1594,
+  "node_id": 913,
+  "next_node_id": 914,
+  "content": "Serrer la main de votre femme"
+}]

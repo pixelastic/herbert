@@ -1,0 +1,751 @@
+[{
+  "id": 1639,
+  "node_id": 915,
+  "next_node_id": 943,
+  "content": "\"Ca va, mais mon épicore m'élance bizarrement.\""
+}, {
+  "id": 1640,
+  "node_id": 915,
+  "next_node_id": 944,
+  "content": "Ne pas répondre et vous livrer à une courte fusion avec Sssilo"
+}, {
+  "id": 1641,
+  "node_id": 943,
+  "next_node_id": 945,
+  "content": "Décliner la proposition pour vous rendre au creuset de nutrition"
+}, {
+  "id": 1642,
+  "node_id": 943,
+  "next_node_id": 944,
+  "content": "Vous livrer à une courte fusion avec Sssilo"
+}, {
+  "id": 1643,
+  "node_id": 944,
+  "next_node_id": 946,
+  "content": "Culminer vers un orgasme collectif et favoriser l'échange identitaire"
+}, {
+  "id": 1644,
+  "node_id": 944,
+  "next_node_id": 947,
+  "content": "Refermer vos terminaisons nerveuses et conserver votre identité dans l'orgasme"
+}, {
+  "id": 1645,
+  "node_id": 945,
+  "next_node_id": 948,
+  "content": "Vous rendre dans un creuset peuplé"
+}, {
+  "id": 1646,
+  "node_id": 945,
+  "next_node_id": 949,
+  "content": "Vous rendre dans un creuset désert"
+}, {
+  "id": 1647,
+  "node_id": 946,
+  "next_node_id": 948,
+  "content": "Vous rendre dans un creuset peuplé"
+}, {
+  "id": 1648,
+  "node_id": 946,
+  "next_node_id": 949,
+  "content": "Vous rendre dans un creuset désert"
+}, {
+  "id": 1649,
+  "node_id": 947,
+  "next_node_id": 948,
+  "content": "Vous rendre dans un creuset peuplé"
+}, {
+  "id": 1650,
+  "node_id": 947,
+  "next_node_id": 949,
+  "content": "Vous rendre dans un creuset désert"
+}, {
+  "id": 1651,
+  "node_id": 948,
+  "next_node_id": 950,
+  "content": "Vous précipiter vers Sssemelo le trisyl pour appeller à l'aide"
+}, {
+  "id": 1652,
+  "node_id": 948,
+  "next_node_id": 951,
+  "content": "Vous précipiter vers Sssol, votre compagnon monosyl"
+}, {
+  "id": 1653,
+  "node_id": 948,
+  "next_node_id": 952,
+  "content": "Vous précipiter vers Sssilo, votre compagnon disyl"
+}, {
+  "id": 1654,
+  "node_id": 949,
+  "next_node_id": 950,
+  "content": "Vous précipiter vers Sssemelo le trisyl pour appeller à l'aide"
+}, {
+  "id": 1655,
+  "node_id": 949,
+  "next_node_id": 951,
+  "content": "Vous précipiter vers Sssol, votre compagnon monosyl"
+}, {
+  "id": 1656,
+  "node_id": 949,
+  "next_node_id": 952,
+  "content": "Vous précipiter vers Sssilo, votre compagnon disyl"
+}, {
+  "id": 1657,
+  "node_id": 952,
+  "next_node_id": 953,
+  "content": "Ne rien répondre"
+}, {
+  "id": 1658,
+  "node_id": 952,
+  "next_node_id": 954,
+  "content": "\"Je sais à quoi tu penses, compagnon Sssilo. Je ne peux pas te laisser faire.\""
+}, {
+  "id": 1659,
+  "node_id": 952,
+  "next_node_id": 955,
+  "content": "\"Oui. Mais c'est moi qui assimilerai notre compagnon.\""
+}, {
+  "id": 1660,
+  "node_id": 953,
+  "next_node_id": 956,
+  "content": "Vous éloigner, sans rien ajouter"
+}, {
+  "id": 1662,
+  "node_id": 951,
+  "next_node_id": 952,
+  "content": "Vous précipiter vers Sssilo, votre compagnon disyl"
+}, {
+  "id": 1663,
+  "node_id": 950,
+  "next_node_id": 951,
+  "content": "Vous précipiter vers Sssol, votre compagnon monosyl"
+}, {
+  "id": 1664,
+  "node_id": 950,
+  "next_node_id": 952,
+  "content": "Vous précipiter vers Sssilo, votre compagnon disyl"
+}, {
+  "id": 1666,
+  "node_id": 954,
+  "next_node_id": 958,
+  "content": "\"Bien. Je perçois ton amour. Je m'offre à toi.\" Vous laisser assimiler"
+}, {
+  "id": 1667,
+  "node_id": 953,
+  "next_node_id": 954,
+  "content": "\"Non, je ne peux pas te laisser faire, Sssilo le doux.\""
+}, {
+  "id": 1668,
+  "node_id": 953,
+  "next_node_id": 955,
+  "content": "\"Sssol est mon ami. Son assimilation me revient.\""
+}, {
+  "id": 1669,
+  "node_id": 953,
+  "next_node_id": 955,
+  "content": "\"Non, bien aimé compagnon. C'est moi qui vais t'assimiler.\""
+}, {
+  "id": 1670,
+  "node_id": 954,
+  "next_node_id": 956,
+  "content": "\"Compagnon. Nos routes se séparent ici. Sssol t'appartient.\" Rompre avec Sssilo"
+}, {
+  "id": 1671,
+  "node_id": 954,
+  "next_node_id": 959,
+  "content": "\"Non. Mon identité doit perdurer. Je vais te libérer de tes peurs.\" Tenter d'assimiler votre compagnon"
+}, {
+  "id": 1672,
+  "node_id": 956,
+  "next_node_id": 958,
+  "content": "Vous laisser assimiler"
+}, {
+  "id": 1673,
+  "node_id": 956,
+  "next_node_id": 959,
+  "content": "Tenter d'assimiler votre ancien compagnon"
+}, {
+  "id": 1674,
+  "node_id": 955,
+  "next_node_id": 958,
+  "content": "\"Bien. Je perçois ton amour. Je m'offre à toi.\" Vous laisser assimiler"
+}, {
+  "id": 1675,
+  "node_id": 955,
+  "next_node_id": 959,
+  "content": "\"Non. Mon identité doit perdurer. Je vais te libérer de tes peurs.\" Tenter d'assimiler votre compagnon"
+}, {
+  "id": 1676,
+  "node_id": 955,
+  "next_node_id": 956,
+  "content": "\"Compagnon. Nos routes se séparent ici. Sssol t'appartient.\" Rompre avec Sssilo"
+}, {
+  "id": 1677,
+  "node_id": 959,
+  "next_node_id": 960,
+  "content": "Tenter de percer la corolle de Sssilo en vous affinant"
+}, {
+  "id": 1678,
+  "node_id": 959,
+  "next_node_id": 961,
+  "content": "Vous diviser pour encercler votre ancien compagnon"
+}, {
+  "id": 1679,
+  "node_id": 960,
+  "next_node_id": 962,
+  "content": "Achever de transpercer Sssilo"
+}, {
+  "id": 1680,
+  "node_id": 960,
+  "next_node_id": 963,
+  "content": "Répondre aux messages d'amour de Sssilo"
+}, {
+  "id": 1681,
+  "node_id": 961,
+  "next_node_id": 964,
+  "content": "Fondre tous les deux sur Sssilo"
+}, {
+  "id": 1683,
+  "node_id": 961,
+  "next_node_id": 966,
+  "content": "Rester tous les deux en retrait"
+}, {
+  "id": 1684,
+  "node_id": 961,
+  "next_node_id": 967,
+  "content": "Vous approcher avec l'un d'entre vous et rester à distance avec l'autre d'entre vous"
+}, {
+  "id": 1685,
+  "node_id": 966,
+  "next_node_id": 964,
+  "content": "Fondre tous les deux sur Sssilo"
+}, {
+  "id": 1686,
+  "node_id": 966,
+  "next_node_id": 965,
+  "content": "Rester tous les deux en retraits"
+}, {
+  "id": 1687,
+  "node_id": 966,
+  "next_node_id": 967,
+  "content": "Vous approcher avec l'un d'entre vous et rester à distance avec l'autre d'entre vous"
+}, {
+  "id": 1688,
+  "node_id": 962,
+  "next_node_id": 968,
+  "content": "Assimiler Sssol"
+}, {
+  "id": 1689,
+  "node_id": 962,
+  "next_node_id": 969,
+  "content": "Laisser Sssol à son sort et quitter le creuset de nutrition"
+}, {
+  "id": 1690,
+  "node_id": 962,
+  "next_node_id": 970,
+  "content": "Parler avec Sssol"
+}, {
+  "id": 1691,
+  "node_id": 967,
+  "next_node_id": 968,
+  "content": "Assimiler Sssol"
+}, {
+  "id": 1692,
+  "node_id": 967,
+  "next_node_id": 969,
+  "content": "Laisser Sssol à son sort et quitter le creuset de nutrition"
+}, {
+  "id": 1693,
+  "node_id": 967,
+  "next_node_id": 970,
+  "content": "Parler avec Sssol"
+}, {
+  "id": 1694,
+  "node_id": 970,
+  "next_node_id": 971,
+  "content": "\"Sssilo... est parti\""
+}, {
+  "id": 1695,
+  "node_id": 970,
+  "next_node_id": 971,
+  "content": "\"J'ai assimilé Sssilo, afin de devenir trisyl.\""
+}, {
+  "id": 1696,
+  "node_id": 970,
+  "next_node_id": 971,
+  "content": "\"J'ai assimilé Sssilo, avant qu'il ne s'en prenne à toi.\""
+}, {
+  "id": 1697,
+  "node_id": 971,
+  "next_node_id": 972,
+  "content": "\"Je... Je ne peux pas faire une chose pareille, compagnon.\""
+}, {
+  "id": 1698,
+  "node_id": 971,
+  "next_node_id": 973,
+  "content": "\"Bien, Sssol. Je vais t'assimiler.\""
+}, {
+  "id": 1699,
+  "node_id": 971,
+  "next_node_id": 974,
+  "content": "\"Non, Sssol. C'est toi qui va m'assimiler.\""
+}, {
+  "id": 1700,
+  "node_id": 972,
+  "next_node_id": 975,
+  "content": "Retourner dans votre ancien creuset d'habitation"
+}, {
+  "id": 1701,
+  "node_id": 972,
+  "next_node_id": 976,
+  "content": "Trouver un nouveau creuset d'habitation, plus proche d'autres trysils tels que vous"
+}, {
+  "id": 1702,
+  "node_id": 968,
+  "next_node_id": 975,
+  "content": "Retourner dans votre ancien creuset d'habitation"
+}, {
+  "id": 1703,
+  "node_id": 968,
+  "next_node_id": 976,
+  "content": "Trouver un nouveau creuset d'habitation, plus proche d'autres trysils tels que vous"
+}, {
+  "id": 1704,
+  "node_id": 969,
+  "next_node_id": 975,
+  "content": "Retourner dans votre ancien creuset d'habitation"
+}, {
+  "id": 1705,
+  "node_id": 969,
+  "next_node_id": 976,
+  "content": "Trouver un nouveau creuset d'habitation, plus proche d'autres trysils tels que vous"
+}, {
+  "id": 1706,
+  "node_id": 975,
+  "next_node_id": 977,
+  "content": "Vous abîmer dans la contemplation de l'espace environnant"
+}, {
+  "id": 1707,
+  "node_id": 973,
+  "next_node_id": 975,
+  "content": "Retourner dans votre ancien creuset d'habitation"
+}, {
+  "id": 1708,
+  "node_id": 973,
+  "next_node_id": 976,
+  "content": "Trouver un nouveau creuset d'habitation, plus proche d'autres trysils tels que vous"
+}, {
+  "id": 1709,
+  "node_id": 976,
+  "next_node_id": 977,
+  "content": "Vous abîmer dans la contemplation de l'espace environnant"
+}, {
+  "id": 1710,
+  "node_id": 976,
+  "next_node_id": 979,
+  "content": "Plonger dans un cycle de sommeil"
+}, {
+  "id": 1711,
+  "node_id": 975,
+  "next_node_id": 979,
+  "content": "Plonger dans un cycle de sommeil"
+}, {
+  "id": 1712,
+  "node_id": 977,
+  "next_node_id": 980,
+  "content": "Aller vous nourrir"
+}, {
+  "id": 1713,
+  "node_id": 980,
+  "next_node_id": 981,
+  "content": "Vous plonger de plus belle dans leur mélopée"
+}, {
+  "id": 1714,
+  "node_id": 980,
+  "next_node_id": 982,
+  "content": "Tenter d'émettre des pulsations similaires"
+}, {
+  "id": 1715,
+  "node_id": 979,
+  "next_node_id": 980,
+  "content": "Aller vous nourrir"
+}, {
+  "id": 1716,
+  "node_id": 981,
+  "next_node_id": 983,
+  "content": "Sonder votre mémoire"
+}, {
+  "id": 1717,
+  "node_id": 981,
+  "next_node_id": 984,
+  "content": "Penser à votre toile"
+}, {
+  "id": 1718,
+  "node_id": 983,
+  "next_node_id": 985,
+  "content": "Penser à votre toile"
+}, {
+  "id": 1719,
+  "node_id": 983,
+  "next_node_id": 986,
+  "content": "Flotter dans l'espace"
+}, {
+  "id": 1720,
+  "node_id": 984,
+  "next_node_id": 987,
+  "content": "Sonder votre mémoire"
+}, {
+  "id": 1721,
+  "node_id": 984,
+  "next_node_id": 988,
+  "content": "Flotter à travers l'espace"
+}, {
+  "id": 1722,
+  "node_id": 985,
+  "next_node_id": 989,
+  "content": "Ricocher à nouveau"
+}, {
+  "id": 1723,
+  "node_id": 989,
+  "next_node_id": 990,
+  "content": "Ricocher encore"
+}, {
+  "id": 1724,
+  "node_id": 990,
+  "next_node_id": 991,
+  "content": "Ricocher encore"
+}, {
+  "id": 1725,
+  "node_id": 991,
+  "next_node_id": 992,
+  "content": "... Vous vous sentez enfin complète"
+}, {
+  "id": 1726,
+  "node_id": 992,
+  "next_node_id": 993,
+  "content": "Remonter"
+}, {
+  "id": 1727,
+  "node_id": 993,
+  "next_node_id": 994,
+  "content": "Remonter"
+}, {
+  "id": 1728,
+  "node_id": 994,
+  "next_node_id": 995,
+  "content": "Remonter"
+}, {
+  "id": 1729,
+  "node_id": 995,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1730,
+  "node_id": 996,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1731,
+  "node_id": 997,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1733,
+  "node_id": 992,
+  "next_node_id": 993,
+  "content": "Remonter"
+}, {
+  "id": 1734,
+  "node_id": 992,
+  "next_node_id": 993,
+  "content": "Remonter"
+}, {
+  "id": 1735,
+  "node_id": 992,
+  "next_node_id": 993,
+  "content": "Remonter"
+}, {
+  "id": 1736,
+  "node_id": 992,
+  "next_node_id": 993,
+  "content": "Remonter"
+}, {
+  "id": 1737,
+  "node_id": 993,
+  "next_node_id": 994,
+  "content": "Remonter"
+}, {
+  "id": 1738,
+  "node_id": 993,
+  "next_node_id": 994,
+  "content": "Remonter"
+}, {
+  "id": 1739,
+  "node_id": 993,
+  "next_node_id": 994,
+  "content": "Remonter"
+}, {
+  "id": 1740,
+  "node_id": 993,
+  "next_node_id": 994,
+  "content": "Remonter"
+}, {
+  "id": 1741,
+  "node_id": 994,
+  "next_node_id": 995,
+  "content": "Remonter"
+}, {
+  "id": 1742,
+  "node_id": 994,
+  "next_node_id": 995,
+  "content": "Remonter"
+}, {
+  "id": 1743,
+  "node_id": 994,
+  "next_node_id": 995,
+  "content": "Remonter"
+}, {
+  "id": 1744,
+  "node_id": 994,
+  "next_node_id": 1000,
+  "content": "Resonter"
+}, {
+  "id": 1745,
+  "node_id": 995,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1746,
+  "node_id": 995,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1747,
+  "node_id": 995,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1748,
+  "node_id": 995,
+  "next_node_id": 1001,
+  "content": "Resonter"
+}, {
+  "id": 1749,
+  "node_id": 996,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1750,
+  "node_id": 996,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1751,
+  "node_id": 996,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1752,
+  "node_id": 996,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1753,
+  "node_id": 1000,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1754,
+  "node_id": 1000,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1755,
+  "node_id": 1000,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1756,
+  "node_id": 1000,
+  "next_node_id": 996,
+  "content": "Remonter"
+}, {
+  "id": 1757,
+  "node_id": 1000,
+  "next_node_id": 1002,
+  "content": "Resoster"
+}, {
+  "id": 1758,
+  "node_id": 997,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1759,
+  "node_id": 997,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1760,
+  "node_id": 998,
+  "next_node_id": 1003,
+  "content": "Plonger"
+}, {
+  "id": 1761,
+  "node_id": 1001,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1762,
+  "node_id": 1001,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1763,
+  "node_id": 1001,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1764,
+  "node_id": 1001,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1765,
+  "node_id": 1001,
+  "next_node_id": 1004,
+  "content": "Resoster"
+}, {
+  "id": 1766,
+  "node_id": 1002,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1767,
+  "node_id": 1002,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1768,
+  "node_id": 1002,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1769,
+  "node_id": 1002,
+  "next_node_id": 997,
+  "content": "Remonter"
+}, {
+  "id": 1770,
+  "node_id": 1002,
+  "next_node_id": 1005,
+  "content": "Résister"
+}, {
+  "id": 1771,
+  "node_id": 1004,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1772,
+  "node_id": 1004,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1773,
+  "node_id": 1004,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1774,
+  "node_id": 1004,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1775,
+  "node_id": 1004,
+  "next_node_id": 1006,
+  "content": "Résister"
+}, {
+  "id": 1776,
+  "node_id": 1005,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1777,
+  "node_id": 1005,
+  "next_node_id": 1007,
+  "content": "Lâcher"
+}, {
+  "id": 1778,
+  "node_id": 1006,
+  "next_node_id": 998,
+  "content": "Remonter"
+}, {
+  "id": 1779,
+  "node_id": 1006,
+  "next_node_id": 1007,
+  "content": "Lâcher"
+}, {
+  "id": 1780,
+  "node_id": 986,
+  "next_node_id": 989,
+  "content": "Ricocher à nouveau"
+}, {
+  "id": 1781,
+  "node_id": 987,
+  "next_node_id": 989,
+  "content": "Ricocher à nouveau"
+}, {
+  "id": 1782,
+  "node_id": 988,
+  "next_node_id": 989,
+  "content": "Ricocher à nouveau"
+}, {
+  "id": 1783,
+  "node_id": 988,
+  "next_node_id": 989,
+  "content": "Ricocher encore"
+}, {
+  "id": 1784,
+  "node_id": 987,
+  "next_node_id": 989,
+  "content": "Ricocher encore"
+}, {
+  "id": 1785,
+  "node_id": 986,
+  "next_node_id": 989,
+  "content": "Ricocher encore"
+}, {
+  "id": 1786,
+  "node_id": 985,
+  "next_node_id": 989,
+  "content": "Ricocher encore"
+}, {
+  "id": 1787,
+  "node_id": 989,
+  "next_node_id": 990,
+  "content": "Ricocher toujours"
+}, {
+  "id": 1788,
+  "node_id": 989,
+  "next_node_id": 990,
+  "content": "Ricocher sans fin"
+}, {
+  "id": 1789,
+  "node_id": 990,
+  "next_node_id": 991,
+  "content": "Ricocher toujours"
+}, {
+  "id": 1790,
+  "node_id": 990,
+  "next_node_id": 991,
+  "content": "Ricocher à nouveau"
+}, {
+  "id": 1879,
+  "node_id": 982,
+  "next_node_id": 983,
+  "content": "Sonder votre mémoire"
+}, {
+  "id": 1880,
+  "node_id": 982,
+  "next_node_id": 984,
+  "content": "Penser à votre toile"
+}]
