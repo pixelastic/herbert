@@ -9,7 +9,10 @@ class NodeList
     nodes.each do |node|
       @collection[node['id']] = Node.new(node)
     end
-    p @collection
+  end
+
+  def get(node_id) 
+    return @collection[node_id]
   end
 
 end

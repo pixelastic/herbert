@@ -18,4 +18,184 @@
   "content": "Vous écoutez enfin ses paroles après lui avoir fait répéter trois fois.",
   "is_final": 0,
   "parent_id": 662
+}, {
+  "id": 662,
+  "content": "Vous le faites parler pour entendre toujours et longtemps sa voix.\nVous n'arrivez pas à comprendre ce qu'il vous dit mais vous vous repaissez de sa musicalité et sa douceur.\nVous rêvez de le voir.",
+  "is_final": 0,
+  "parent_id": 661
+}, {
+  "id": 859,
+  "content": "Vous regardez le bouton du téléphone clignoter, en vous demandant si ce que vous faîtes est bien.\nVotre employeur, la société \"Septième Ciel\", est devenue l'une des sociétés les plus connues et rentable du service d'hôtesses en ligne.\nBien que vous n'ayez pas de contacts direct avec la clientèle, vous êtes dégoutée de devoir faire ça. Vos proches ne sont même pas au courant et pensent que vous travailler pour une hotline classique.",
+  "is_final": 0,
+  "parent_id": 449
+}, {
+  "id": 917,
+  "content": "Vous regardez le bouton du téléphone clignoter, en vous demandant si ce que vous faites est bien.\nVotre employeur, la société \"Septième Ciel\", est devenue l'une des sociétés les plus connues et rentables du service d'hôtesses en ligne.\nBien que vous n'ayez pas de contact direct avec la clientèle, vous êtes dégoutée de devoir faire ça. Vos proches ne sont même pas au courant et pensent que vous travaillez pour une hotline classique.",
+  "is_final": 0,
+  "parent_id": 449
+}, {
+  "id": 918,
+  "content": "Vous vous reprenez en main. Après tout, il suffit de parler aux clients et de les accompagner pendant la séance qui en général n'est jamais bien longue. De plus, vous n'êtes pas présente physiquement, juste par la voix, et n'êtes pas directement \"impliquée\". Tout le reste est automatisé.\nAprès tout, on vous a toujours dit que vous étiez d'agréable compagnie.\nVous vous motivez pour cette fois-ci, en promettant que vous arrêterez lorsque vous aurez suffisamment d'argent pour payer vos études.",
+  "is_final": 0,
+  "parent_id": 917
+}, {
+  "id": 919,
+  "content": "Fini de rêvasser, vous ajustez votre casque, lancez le programme de suivi sur votre ordinateur et appuyez sur le bouton d'appel. Vous entamez la conversation avec le dialogue classique: \"Bonjour, bienvenue chez \"Septième Ciel\". Je me nomme Lilia et serais votre hôtesse. Pourrais-je connaitre votre prénom ?\".\nDe l'autre côté de la ligne, une voix hésitante se présente :\"heu... bonjour madame, enfin mademoiselle ... je m'appelle Nic... heu Damien, Damien.\"",
+  "is_final": 0,
+  "parent_id": 918
+}, {
+  "id": 926,
+  "content": "Vous continuez donc à lire votre texte machinalement : \"La société \"Septième Ciel\" ainsi que ses représentants ne pourront être tenues pour responsables en cas d'anomalie durant la séance, ou bien si le résultat obtenu n'est pas celui souhaité.\nVous pourrez à tout moment mettre fin à la séance et refuser d'aller jusqu'au bout. Auquel cas le montant initialement prévu pour la séance sera tout de même débité sur votre carte de crédit\".",
+  "is_final": 0,
+  "parent_id": 923
+}, {
+  "id": 920,
+  "content": "Fini de rêvasser, vous ajustez votre casque, lancez le programme de suivi sur votre ordinateur et appuyez sur le bouton d'appel. Vous entamez la conversation avec le dialogue classique: \"Bonjour, bienvenue chez \"Septième Ciel\". Je me nomme Lilia et serai votre hôtesse. Pourrais-je connaitre votre prénom ?\".\nDe l'autre côté de la ligne, une voix hésitante se présente :\"heu... bonjour madame, enfin mademoiselle ... je m'appelle Nic... heu Damien, Damien.\"",
+  "is_final": 0,
+  "parent_id": 449
+}, {
+  "id": 921,
+  "content": "Vous avez l'habitude des clients timides,  et un peu honteux dans ce genre de cas. Vous essayez de le motiver: \"Ne vous inquiétez pas Damien, nous conservons l'anonymat de notre clientèle, règle d'or chez \"Septième Ciel\". Il est tout à fait normal de se sentir gêné dans cette situation mais nous pensons que c'est une marque de courage de faire appel à nos services. Vous assumez vos faiblesses et nous trouvons ça très beau\".",
+  "is_final": 0,
+  "parent_id": 920
+}, {
+  "id": 922,
+  "content": "Vous avez l'habitude des clients timides,  et un peu honteux dans ce genre de cas. Vous essayez de le motiver: \"Ne vous inquiétez pas Damien, nous conservons l'anonymat de notre clientèle, règle d'or chez \"Septième Ciel\". Il est tout à fait normal de se sentir gêné dans cette situation mais nous pensons que c'est une marque de courage de faire appel à nos services. Vous assumez vos faiblesses et vous trouvons ça très beau\".",
+  "is_final": 0,
+  "parent_id": 920
+}, {
+  "id": 923,
+  "content": "Lors de votre formation, on vous a appris à être froide et insensible afin de ne pas vous retrouver émotionnellement impliqué dans une affaire.\nVous vous contentez donc de réciter votre texte d'accueil:\n\"Bonjour Damien, merci de faire confiance à \"Septième Ciel\". Je suis là pour m'assurer que ce moment intime et personnel soit le plus agréable possible\".",
+  "is_final": 0,
+  "parent_id": 920
+}, {
+  "id": 925,
+  "content": "Vous êtes pratiquement sûre que votre interlocuteur rougit de l'autre côté du téléphone.\n\"La vie est difficile pour beaucoup de gens, on se sent facilement seul, mais \"Septième Ciel\" est là pour vous aider à rendre ce moment si personnel et délicat le plus agréable possible\".",
+  "is_final": 0,
+  "parent_id": 921
+}, {
+  "id": 924,
+  "content": "Vous jetez un oeil à votre écran : Le mot \"paiement\" clignote en rouge.\n \"J'aurais besoin que vous me communiquiez votre numéro de carte de crédit, afin de m'assurer que les fonds nécessaires sont disponibles.\nLe virement sera effectué automatiquement en fin de séance. Comme ça nous pouvons avoir l'esprit libre pour nous occuper de notre affaire.\"\nAprès que le client vous ait communiquée ses coordonnées bancaires, l'ordinateur valide et vous affiche la séquence à suivre.",
+  "is_final": 0,
+  "parent_id": 920
+}, {
+  "id": 938,
+  "content": "Vous enlevez votre main de la souris, puis commencez à parler délicatement et calmement dans le micro :\" Damien, nous ne sommes pas obligés de faire ça ensemble maintenant. Vous savez qu'il y a des tas de jolies filles dans la rue. Ne cédez pas à la solution de facilité\".\nVotre discours est interrompu par un code rouge qui s'affiche en gros sur votre écran.",
+  "is_final": 0,
+  "parent_id": 937
+}, {
+  "id": 932,
+  "content": "\"Damien, essayez de penser à un lieu qui vous rappelle de bons souvenirs. Je pourrais alors synchroniser votre esprit pour que la séance se déroule là-bas.\"\nDes images défilent alors rapidement sur votre écran. Paysages de plage, filles aux seins nus dans des piscines, rigolade entre amis... Finalement le défilement s'arrête sur un canapé tout simple.\nVous entendez Damien rajouter : \"C'est ici que je me sens le plus à l'aise pour faire ça\".",
+  "is_final": 0,
+  "parent_id": 931
+}, {
+  "id": 927,
+  "content": "Toujours en bégayant et en cherchant ses mots, le client vous répond que oui.\nIl rajoute \"Vous savez, je suis ici parce que ma femme m'a quitté. Elle était tout pour moi. J'ai bien essayé de la remplacer et de me trouver une copine, mais la drague c'est pas mon truc, les gens ne font jamais attention à moi, mon boulot m'ennuie...\"",
+  "is_final": 0,
+  "parent_id": 926
+}, {
+  "id": 928,
+  "content": "\"Je ne supporte plus cette solitude... c'est pour ça que j'ai recours à vos service. Il parait que vous êtes les meilleurs dans le domaine, je vous fais confiance. Ne me jugez pas s'il vous plait, surtout pas maintenant\".\nVous vous souvenez maintenant pourquoi vous détestez ce métier, exploiter à ce point la misère et le malheur des gens... Mais déjà l'indicatif de temps vous rappelle que la conversation est trop longue et qu'il faut avancer.",
+  "is_final": 0,
+  "parent_id": 927
+}, {
+  "id": 929,
+  "content": "Vous respirez profondément et dites d'un voix douce et avenante: \"Damien, veuillez retirer les électrodes contenues dans le pack \"_7eCi.L\" que vous avez acheté. Maintenant placez en une sur votre coeur et l'autre à votre tempe droite. Je serais ainsi directement reliée avec vous et je pourrais communiquer avec votre esprit. C'est indispensable au bon déroulement de la séance. Vous aurez l'impression que je suis à vos côtés\".\nDamien vous répond d'un air assuré: \"Merci, vous êtes très gentille\".",
+  "is_final": 0,
+  "parent_id": 927
+}, {
+  "id": 930,
+  "content": "Sa voix vous surprend, et vous essayez de comprendre: \"Damien, je suis étonnée que nous ne trouviez pas de petite amie, vous m'avez l'air d'être un garçon charmant et ...\".\nTandis que vous parlez, l'ordinateur de bord se met en alerte. Un rapport d'erreur s'affiche sur l'écran : \"\n// URGENT\n// Relation devient trop intime\n// Risque de prise de confiance chez le client\n// Perte de client potentiel\n// Retour immédiat sur procédure au point \"noeud_21\"",
+  "is_final": 0,
+  "parent_id": 929
+}, {
+  "id": 931,
+  "content": "Vous vous reprenez et suivez la procédure affichée sur votre écran.\nIl faut d'abord mettre à l'aise le client.\n\"Essayez de vous détendre, de vous relaxer. Pourquoi par exemple ne pas commencer par vous déshabiller, si ce n'est déjà fait ?\"\nTout en proposant cela, vous voyez sur votre écran que le rythme cardiaque du client vient de s'accélérer. Même au téléphone il arrive à être gêné. Cela vous fait sourire.",
+  "is_final": 0,
+  "parent_id": 929
+}, {
+  "id": 933,
+  "content": "\"Souhaitez-vous utiliser des accessoires? J'en fais défiler dans votre esprit. Si vous avez besoin de conseils, n'hésitez pas à demander. Certains semblent complexes mais sont en fait très facile à utiliser\".\nLe client semble surpris par votre question. Il essaie de répondre :\"Heu... non... Je ne préfère pas en fait, j'ai peur que ça fasse mal ou que je ne sache pas m'en servir, et je raterai le coup une fois de plus. Si possible j'aimerais qu'on fasse ça de manière classique\".",
+  "is_final": 0,
+  "parent_id": 931
+}, {
+  "id": 934,
+  "content": "\"Nous pouvons mettre une musique en fond sonore si vous voulez. Pensez à une chanson en particulier et l'ordinateur la jouera pour nous accompagner.\"\nLe client répond : \"Je vais fredonner un air dans ma tête. C'est la musique sur laquelle j'ai échangé mon premier baiser\".\nVous trouvez ça étrange de penser à un tel événement et surtout à une autre fille maintenant.\nAprès une courte analyse les premières notes commencent à résonner.",
+  "is_final": 0,
+  "parent_id": 931
+}, {
+  "id": 935,
+  "content": "Vous vérifiez les différentes données sur votre ordinateur. Son esprit est prêt pour la suite de la séance.\nVous continuez alors à donner les directives: \"Damien, dans le pack que vous avez acheté se trouve une pilule bleue. Veuillez s'il vous plait l'avaler. Elle va donner un petit coup de main à votre corps pour que l'expérience soit totale\".",
+  "is_final": 0,
+  "parent_id": 933
+}, {
+  "id": 941,
+  "content": "Vous voyez sur votre moniteur le rythme cardiaque du client s'accélérer, son corps se raidir, sa température corporelle monter. Dans votre casque vous entendez des légers gémissements, des cris furtifs. Le souffle de Damien devient de plus en plus haletant.",
+  "is_final": 0,
+  "parent_id": 940
+}, {
+  "id": 936,
+  "content": "Vous entendez le client déglutir pour avaler la pilule. Instantanément, vous voyez sur l'écran que son rythme cardiaque s'accélère, le sang afflue dans ses veines. Il commence à transpirer légèrement. Vous l'entendez pousser quelques petits soupirs.\n\"Damien, est ce que tout se passe bien ?\".\nAprès avoir repris sa respiration, Damien vous répond :\"Oui, c'est très agréable, beaucoup plus que je le pensais. En plus je ne suis pas stressé du tout\".",
+  "is_final": 0,
+  "parent_id": 935
+}, {
+  "id": 937,
+  "content": "La main tremblante, vous placez le curseur de la souris sur le bouton \"7ème ciel\".\nComme à chaque fois, vous hésitez. Etes vous prête à faire ceci? Les éternelles questions de morale viennent se bousculer dans votre esprit.\nMais les formatrices vous l'ont déjà répété des centaines de fois: les gens n'ont pas attendu \"Septième Ciel\" pour s'adonner à de tels actes. Ils sont prêts à tout pour trouver de la compagnie, et la concurrence est rude dans ce business très lucratif.",
+  "is_final": 0,
+  "parent_id": 935
+}, {
+  "id": 939,
+  "content": "En rouge sur votre écran, les mots suivant s'affichent : \"\n// ATTENTION\n// Ordre immédiat de lancer phase finale\n-> Rédaction de blâme en cours\n-> 3 minutes enlevées de votre salaire\n// Si phase finale non lancée dans 10 secondes\n-> transfert à hôtesse b_3497\n-> renvoi immédiat\n// Dernier avertissement \"",
+  "is_final": 0,
+  "parent_id": 938
+}, {
+  "id": 940,
+  "content": "Vous détestez \"Septième Ciel\" qui vous oblige à faire ça, et vous vous détestez également.\nMais vous avez vraiment besoin de cet argent.\nEn retenant votre souffle, vous pressez le bouton de votre souris.",
+  "is_final": 0,
+  "parent_id": 939
+}, {
+  "id": 942,
+  "content": "Dans un dernier souffle, il crie votre prénom, avant que tout s'arrête brusquement.\nVous récitez alors machinalement le discours habituel, qui résonne alors dans l'esprit du client avant qu'il ne s'évanouisse à jamais:\n \"Merci d'avoir fait appel à \"Septième Ciel\", l'entreprise numéro 1 dans le suicide assisté. Nous espérons que votre mort a été douce et sans douleur.\nSeptième ciel, Pour que plus jamais vous ne mourriez seul\".",
+  "is_final": 0,
+  "parent_id": 941
+}, {
+  "id": 1029,
+  "content": "",
+  "is_final": 1,
+  "parent_id": 449
+}, {
+  "id": 1008,
+  "content": "Vous reposez le combiné sur son socle, les mains moites.\nVotre horloge mural vous scie les nerfs avec son \"tic-tac\" incessant.\nLa solitude. Vous vous sentez comme essoufflée. Vous avez impression d'être la Reine de l'inutile, de l'invisible et de l'incohérent.\nEt vous êtes probablement renvoyée, à l'heure qu'il est...\nPeut-être est-il temps de faire appel à 7ème Ciel, pour vous aussi ? L'ironie de la chose vous amuse.",
+  "is_final": 0,
+  "parent_id": 941
+}, {
+  "id": 1009,
+  "content": "Vous extrayez de votre tiroir le pack \"_7eCi.L\" acheté pour une occasion comme celle-ci et vous composez le numéro de votre (probablement ancien) employeur.\nC'est la première fois que vous découvrez ce service en tant que cliente mais vous connaissez par coeur les phrases que la voix chaude et réconfortante de votre interlocuteur débite : vous les avez vous-même apprise deux mois auparavant.\nSoudain, vous vous sentez un peu ridicule...",
+  "is_final": 0,
+  "parent_id": 1008
+}, {
+  "id": 1010,
+  "content": "Non. C'est idiot. Vous n'avez pas besoin de ça. Vous reposez le combiné.",
+  "is_final": 0,
+  "parent_id": 1009
+}, {
+  "id": 1011,
+  "content": "Le moment venu, vous placez les électrodes sur votre coeur et votre tempe droite. La voix suave de votre interlocuteur caresse vos oreilles. Vous vous dites qu'il est vraiment doué... et qu'il doit toucher une excellente commission.\nVous sentez la vague monter. Vous videz votre esprit.",
+  "is_final": 0,
+  "parent_id": 1009
+}, {
+  "id": 1024,
+  "content": "Vous secouez la tête, allumez une cigarette et vous rendez sur la terrasse de votre petit conapart. La ville s'agite sous le mouvement lent des immenses panneaux publicitaires qui flottent dans le ciel comme autant de baleines nonchalantes.\nParmi elles, une publicité pour Septième ciel, bien sûr.\nIl ne faudrait pas que vous puissiez oublier ce service l'espace d'une seconde, après tout. Ou son slogan.\n\"Envie d'en finir ? Ne partez plus seul avec Septième Ciel, numéro 1 du suicide assisté !\"",
+  "is_final": 1,
+  "parent_id": 1008
+}, {
+  "id": 1012,
+  "content": "Dans un dernier souffle, il crie votre prénom, avant que tout ne s'arrête brusquement.\nVous récitez alors machinalement le discours habituel, qui résonne dans l'esprit du client avant qu'il ne s'évanouisse à jamais:\n\"Merci d'avoir fait appel à \"Septième Ciel\", l'entreprise numéro 1 dans le suicide assisté. Nous espérons que votre mort a été douce et sans douleur.\nSeptième ciel : ne partez plus seul\".",
+  "is_final": 1,
+  "parent_id": 941
+}, {
+  "id": 1025,
+  "content": "La sensation culmine, vous poussez un râle.\nVotre interlocuteur récite alors machinalement le discours habituel, qui résonne alors dans votre esprit avant que vous ne vous évanouissiez à jamais.\n\"Merci d'avoir fait appel à \"Septième Ciel\", l'entreprise numéro 1 dans le suicide assisté. Nous espérons que votre mort a été douce et sans douleur.\nSeptième ciel : ne partez plus seul\".",
+  "is_final": 1,
+  "parent_id": 1011
 }]
