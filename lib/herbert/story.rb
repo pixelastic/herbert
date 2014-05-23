@@ -1,8 +1,5 @@
 # Encoding: UTF-8
 require "json"
-require_relative "node_list"
-require_relative "node"
-require_relative "choice"
 
 class Story
   attr_reader :nodes

@@ -1,5 +1,3 @@
-# Encoding : UTF-8
-require_relative "node"
 
 class NodeList
   attr_reader :first

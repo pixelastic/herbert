@@ -1,5 +1,3 @@
-# Encoding: UTF-8
-require_relative "choice"
 
 class Node
   attr_accessor :id, :content, :is_final, :choices

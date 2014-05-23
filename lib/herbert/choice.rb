@@ -1,4 +1,3 @@
-# Encoding: UTF-8
 
 class Choice
   attr_accessor :id, :next_node_id, :content
